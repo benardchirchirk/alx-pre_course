@@ -1,0 +1,3 @@
+#!/bin/bash
+sh: 1: q: not found
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
