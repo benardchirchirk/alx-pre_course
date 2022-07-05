@@ -1,3 +1,3 @@
 #1/bin/bash
-echo "ALX School"
+echo "ALX School is so cool"
 USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
